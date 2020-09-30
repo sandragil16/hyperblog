@@ -28,9 +28,9 @@ body
 #container
 {
     width: 70%;
+    border: 1xp solid #D0DD;
     padding: 0%;
     text-align: left;
-    border: 1px color white;
     margin: 0 auto;
 
 
