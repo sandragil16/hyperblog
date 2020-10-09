@@ -10,6 +10,8 @@ Mi primera vez utilizando Git y Github . Platzi
 * Trucos muy locos del profesor 
 *  Las multiples personalidades de Freddy
 * Creado or el increíble Platzi Team
+* Incluye ejemplos en Windows , Linux y Mac
+* Disponibles para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso [a ver el curso](http://platzi.com/curso/git-github/* a ver el curso* "a ver el curso")
 
